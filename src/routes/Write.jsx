@@ -1,10 +1,7 @@
 const Write = () => {
-    return (
-      <div className="">
-        Write
-      </div>
-    )
-  }
-  
-  export default Write
-  
+  return(
+    <div className="">WRITE</div>
+  )
+}
+
+export default Write
