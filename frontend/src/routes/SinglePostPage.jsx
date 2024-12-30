@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import Image from "../components/Image";
 import PostMenuActions from "../components/PostMenuActions";
-import Search from "../components/Search";
+import Search from "../components/Search.jsx";
 import Comments from "../components/Comments";
 
 
